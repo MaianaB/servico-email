@@ -1,0 +1,1 @@
+/home/maiana/Documents/servico-email/__init__.py
